@@ -9,7 +9,7 @@ Simple string utils for dealing easier with them
 Install using composer:
 
 ```
-composer require queracollege/string-utils
+composer require manicollege/string-utils
 ```
 
 # Example
@@ -18,7 +18,7 @@ composer require queracollege/string-utils
 
 require __DIR__.'/vendor/autoload.php';
 
-use \QueraCollege\StringUtils\Str;
+use \ManiCollege\StringUtils\Str;
 
 var_dump(Str::contains('abcd', ['ab', 'x']));
 ```

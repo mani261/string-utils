@@ -2,6 +2,6 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use \QueraCollege\StringUtils\Str;
+use \ManiCollege\StringUtils\Str;
 
 var_dump(Str::contains('abcd', ['ab', 'x']));

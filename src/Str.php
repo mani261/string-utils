@@ -1,6 +1,6 @@
 <?php
 
-namespace QueraCollege\StringUtils;
+namespace ManiCollege\StringUtils;
 
 class Str
 {

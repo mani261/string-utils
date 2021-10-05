@@ -1,11 +1,11 @@
 {
-    "name": "queracollege/string-utils",
+    "name": "manicollege/string-utils",
     "description": "Simple string utils for dealing easier with them",
     "keywords": [
         "string",
         "utils"
     ],
-    "homepage": "https://github.com/queracollege/string-utils",
+    "homepage": "https://github.com/manicollege/string-utils",
     "license": "MIT",
     "type": "library",
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "QueraCollege\\StringUtils\\": "src"
+            "ManiCollege\\StringUtils\\": "src"
         }
     }
 }
